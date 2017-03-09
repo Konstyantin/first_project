@@ -1,0 +1,162 @@
+[09-Mar-2017 14:24:32 Europe/Kiev] PHP Warning:  require_once(asd.asd): failed to open stream: No such file or directory in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:24:32 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:24:32 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:24:32 Europe/Kiev] PHP Fatal error:  require_once(): Failed opening required 'asd.asd' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:24:32 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:24:32 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:24:33 Europe/Kiev] PHP Warning:  require_once(asd.asd): failed to open stream: No such file or directory in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:24:33 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:24:33 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:24:33 Europe/Kiev] PHP Fatal error:  require_once(): Failed opening required 'asd.asd' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:24:33 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:24:33 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:24:33 Europe/Kiev] PHP Warning:  require_once(asd.asd): failed to open stream: No such file or directory in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:24:33 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:24:33 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:24:33 Europe/Kiev] PHP Fatal error:  require_once(): Failed opening required 'asd.asd' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:24:33 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:24:33 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:29:33 Europe/Kiev] PHP Warning:  require_once(asd.asd): failed to open stream: No such file or directory in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:29:33 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:29:33 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:29:33 Europe/Kiev] PHP Fatal error:  require_once(): Failed opening required 'asd.asd' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:29:33 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:29:33 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:29:37 Europe/Kiev] PHP Warning:  require_once(asd.asd): failed to open stream: No such file or directory in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:29:37 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:29:37 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:29:37 Europe/Kiev] PHP Fatal error:  require_once(): Failed opening required 'asd.asd' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:29:37 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:29:37 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:29:38 Europe/Kiev] PHP Warning:  require_once(asd.asd): failed to open stream: No such file or directory in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:29:38 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:29:38 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:29:38 Europe/Kiev] PHP Fatal error:  require_once(): Failed opening required 'asd.asd' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:29:38 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:29:38 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:29:49 Europe/Kiev] PHP Warning:  require_once(asd.asd): failed to open stream: No such file or directory in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:29:49 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:29:49 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:29:49 Europe/Kiev] PHP Fatal error:  require_once(): Failed opening required 'asd.asd' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:29:49 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:29:49 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:29:50 Europe/Kiev] PHP Warning:  require_once(asd.asd): failed to open stream: No such file or directory in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:29:50 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:29:50 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:29:50 Europe/Kiev] PHP Fatal error:  require_once(): Failed opening required 'asd.asd' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:29:50 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:29:50 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:32:37 Europe/Kiev] PHP Warning:  require_once(asd.asd): failed to open stream: No such file or directory in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:32:37 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:32:37 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:32:37 Europe/Kiev] PHP Fatal error:  require_once(): Failed opening required 'asd.asd' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:32:37 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:32:37 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:33:08 Europe/Kiev] PHP Warning:  require_once(asd.asd): failed to open stream: No such file or directory in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:33:08 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:33:08 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:33:08 Europe/Kiev] PHP Fatal error:  require_once(): Failed opening required 'asd.asd' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:33:08 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:33:08 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:36:44 Europe/Kiev] PHP Warning:  require_once(asd.asd): failed to open stream: No such file or directory in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:36:44 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:36:44 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:36:44 Europe/Kiev] PHP Fatal error:  require_once(): Failed opening required 'asd.asd' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:36:44 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:36:44 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:36:45 Europe/Kiev] PHP Warning:  require_once(asd.asd): failed to open stream: No such file or directory in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:36:45 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:36:45 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:36:45 Europe/Kiev] PHP Fatal error:  require_once(): Failed opening required 'asd.asd' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:36:45 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:36:45 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:36:46 Europe/Kiev] PHP Warning:  require_once(asd.asd): failed to open stream: No such file or directory in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:36:46 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:36:46 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:36:46 Europe/Kiev] PHP Fatal error:  require_once(): Failed opening required 'asd.asd' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:36:46 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:36:46 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:36:47 Europe/Kiev] PHP Warning:  require_once(asd.asd): failed to open stream: No such file or directory in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:36:47 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:36:47 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:36:47 Europe/Kiev] PHP Fatal error:  require_once(): Failed opening required 'asd.asd' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:36:47 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:36:47 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:36:47 Europe/Kiev] PHP Warning:  require_once(asd.asd): failed to open stream: No such file or directory in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:36:47 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:36:47 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:36:47 Europe/Kiev] PHP Fatal error:  require_once(): Failed opening required 'asd.asd' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:36:47 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:36:47 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:36:48 Europe/Kiev] PHP Warning:  require_once(asd.asd): failed to open stream: No such file or directory in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:36:48 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:36:48 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:36:48 Europe/Kiev] PHP Fatal error:  require_once(): Failed opening required 'asd.asd' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:36:48 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:36:48 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:36:55 Europe/Kiev] PHP Warning:  require_once(asd.asd): failed to open stream: No such file or directory in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:36:55 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:36:55 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:36:55 Europe/Kiev] PHP Fatal error:  require_once(): Failed opening required 'asd.asd' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:36:55 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:36:55 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:36:55 Europe/Kiev] PHP Warning:  require_once(asd.asd): failed to open stream: No such file or directory in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:36:55 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:36:55 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:36:55 Europe/Kiev] PHP Fatal error:  require_once(): Failed opening required 'asd.asd' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:36:55 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:36:55 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:36:56 Europe/Kiev] PHP Warning:  require_once(asd.asd): failed to open stream: No such file or directory in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:36:56 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:36:56 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:36:56 Europe/Kiev] PHP Fatal error:  require_once(): Failed opening required 'asd.asd' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:36:56 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:36:56 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:40:50 Europe/Kiev] PHP Warning:  require_once(asd.asd): failed to open stream: No such file or directory in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:40:50 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:40:50 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:40:50 Europe/Kiev] PHP Fatal error:  require_once(): Failed opening required 'asd.asd' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:40:50 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:40:50 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:40:51 Europe/Kiev] PHP Warning:  require_once(asd.asd): failed to open stream: No such file or directory in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:40:51 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:40:51 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:40:51 Europe/Kiev] PHP Fatal error:  require_once(): Failed opening required 'asd.asd' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:40:51 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:40:51 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:40:51 Europe/Kiev] PHP Warning:  require_once(asd.asd): failed to open stream: No such file or directory in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:40:51 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:40:51 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:40:51 Europe/Kiev] PHP Fatal error:  require_once(): Failed opening required 'asd.asd' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:40:51 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:40:51 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:40:52 Europe/Kiev] PHP Warning:  require_once(asd.asd): failed to open stream: No such file or directory in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:40:52 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:40:52 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:40:52 Europe/Kiev] PHP Fatal error:  require_once(): Failed opening required 'asd.asd' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:40:52 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:40:52 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:40:52 Europe/Kiev] PHP Warning:  require_once(asd.asd): failed to open stream: No such file or directory in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:40:52 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:40:52 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:40:52 Europe/Kiev] PHP Fatal error:  require_once(): Failed opening required 'asd.asd' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:40:52 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:40:52 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:40:52 Europe/Kiev] PHP Warning:  require_once(asd.asd): failed to open stream: No such file or directory in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:40:52 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:40:52 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:40:52 Europe/Kiev] PHP Fatal error:  require_once(): Failed opening required 'asd.asd' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:40:52 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:40:52 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:40:52 Europe/Kiev] PHP Warning:  require_once(asd.asd): failed to open stream: No such file or directory in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:40:52 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:40:52 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:40:52 Europe/Kiev] PHP Fatal error:  require_once(): Failed opening required 'asd.asd' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:40:52 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:40:52 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:40:53 Europe/Kiev] PHP Warning:  require_once(asd.asd): failed to open stream: No such file or directory in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:40:53 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:40:53 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 14:40:53 Europe/Kiev] PHP Fatal error:  require_once(): Failed opening required 'asd.asd' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
+[09-Mar-2017 14:40:53 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 14:40:53 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
