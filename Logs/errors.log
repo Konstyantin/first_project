@@ -160,3 +160,9 @@
 [09-Mar-2017 14:40:53 Europe/Kiev] PHP Fatal error:  require_once(): Failed opening required 'asd.asd' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html2/kostya.nagula/project/first_project/index.php on line 16
 [09-Mar-2017 14:40:53 Europe/Kiev] PHP Stack trace:
 [09-Mar-2017 14:40:53 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 15:13:32 Europe/Kiev] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /var/www/html2/kostya.nagula/project/first_project/Db/DB.php on line 9
+[09-Mar-2017 15:13:32 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 15:13:32 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
+[09-Mar-2017 15:13:53 Europe/Kiev] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in /var/www/html2/kostya.nagula/project/first_project/Db/DB.php on line 9
+[09-Mar-2017 15:13:53 Europe/Kiev] PHP Stack trace:
+[09-Mar-2017 15:13:53 Europe/Kiev] PHP   1. {main}() /var/www/html2/kostya.nagula/project/first_project/index.php:0
